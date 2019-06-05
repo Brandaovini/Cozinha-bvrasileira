@@ -1,6 +1,7 @@
-# Adonis API application
+# APP Cozinha Brasileira 
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+Até agora possui uma API que realiza auntenticação via JWT.
+A API foi criada com o framework AdonisJS.
 
 1. Bodyparser
 2. Authentication
@@ -9,14 +10,6 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 5. Migrations and seeds
 
 ## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
 
 
 ### Migrations
